@@ -1,0 +1,9 @@
+node_modules/
+.env
+artifacts/
+cache/
+deployed-addresses.json
+frontend/node_modules/
+frontend/dist/
+*.log
+.DS_Store
